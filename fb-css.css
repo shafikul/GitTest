@@ -1,0 +1,128 @@
+/*Created by Barrett at RRPowered.com*/
+
+html {
+    height: 100%;
+	padding: 0;
+	margin: 0;
+    }
+	
+body {
+    font-size: 11px;
+	color:#333;
+	text-align: left;
+	direction: ltr;
+    }
+
+.fb-container {
+    width: 375px;
+	margin: 0 auto;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif !important;
+    }
+
+.fb-signuptxt {
+    margin-bottom: 5px;
+	color: #0e358f;
+	font-size: 18px;
+	font-weight: bold;
+    }	
+	
+.fb-tptxt {
+    margin-top: 10px;
+	color: #0e358f;
+	font-size: 15px;
+    }
+
+.fb-form {
+    padding: 10px 0 10px 0;
+	border-top: solid #a0a9c0 1px;
+	border-bottom: solid #a0a9c0 1px;
+	overflow: hidden;
+    }	
+	
+.fb-input {
+    padding: 6px;
+	margin-top: 2px;
+	font-size: 16px;
+	width: 100%;
+	border: solid #bdc7d8 1px;
+    }
+	
+.fb-select {
+    padding: 3px;
+	margin-top: 2px;
+	height: 34px;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 13px;
+	border: solid #bdc7d8 1px;
+	float: left;
+    }	
+	
+.fb-txt-left {
+	width: 120px;
+	padding: 7px 0 7px 0;
+	margin: 2px;
+	text-align: right;
+	color: #1d2a5d;
+	font-size: 13px;
+	float: left;
+	}
+
+.fb-input-right {
+    width: 235px;
+	float: left;
+       
+        
+    }
+    .fb-input-bday{
+       width: 235px;
+	float: left;
+        font-size: 15px;
+        color: #000000;
+        
+    }	
+    
+.fb-button-left {
+    padding: 8px 0 0 125px;
+    float: left;
+}
+.fb-button-singup
+{
+     padding: 1px;
+    /*float: left;*/
+}
+
+.fb-error {
+    width: 366px;
+	margin: 10px 0 0 0;
+	padding: 7px 3px 7px 3px;
+	background-color: #ffebe8;
+	border: solid #dd3c10 1px;
+	line-height: 15px;
+	text-align: center;
+	float: left;
+	display: none;
+    }	
+	
+	
+/*Button*/	
+.button_outside_border_green {
+    width: 105px;
+	border: solid #3b6e22 1px;
+	border-bottom:solid #2c5115 1px;
+	cursor: pointer;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+    }
+	
+.button_outside_border_green {
+    padding: 6px 0 6px 0;
+	background-color: #68a64c;
+	text-align: center;
+	color: #fff;
+    }	
+	
+	
+.button_outside_border_green:active {
+    background-color: #609946;
+    }	
